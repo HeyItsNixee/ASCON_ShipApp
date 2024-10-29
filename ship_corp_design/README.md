@@ -1,7 +1,6 @@
 # ship_corp_design
 
 
-## –абота с проектами VS р€дом с cmake создаЄм католог build, кеш cmake дулаем внутри этого католога. 
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
